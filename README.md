@@ -78,7 +78,7 @@ cd ~ && git clone https://github.com/dw-0/kiauh.git
 Finally, start KIAUH by running the next command:
 
 ```shell
-./kiauh/kiauh.sh
+./kiauhPlusDroidKlipp/kiauh.sh
 ```
 
 * **Step 4:** \
